@@ -1,5 +1,6 @@
 # sedi
 SEDI - Stochastic Estimation of the Inverse of the Diagonal
+
 PURPOSE
 =========
 
@@ -18,7 +19,7 @@ to large numbers of MPI ranks.
 COMPILATION
 =============
 
-A Makefile is provided with the source code. Simply type `make" in the directory where you installed 
+A Makefile is provided with the source code. Simply type `make` in the directory where you installed 
 the source files in order to generate the 3 following executables:
 	stochastic-estimator.cg.exe
 	stochastic-estimator.pipelined_cg.exe
